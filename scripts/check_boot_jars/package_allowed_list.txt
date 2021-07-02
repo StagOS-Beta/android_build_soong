@@ -268,3 +268,8 @@ org\.codeaurora\.internal.*
 ###################################################
 # IFAA Manager used for Alipay and/or WeChat payment
 org\.ifaa\.android\.manager.*
+
+# QC adds
+com.qualcomm.qti
+com.quicinc.tcmiface
+qcom.fmradio
